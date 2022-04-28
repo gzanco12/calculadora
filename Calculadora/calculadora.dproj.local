@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/25 13:19:48.000.432,=D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/25 13:27:01.000.314,D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/26 13:54:33.000.272,=D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/26 13:55:45.000.205,D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\tela2.dfm</Transaction>
+    <Transaction>2022/04/26 13:55:45.000.205,D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\tela2.pas</Transaction>
+    <Transaction>2022/04/26 15:59:50.000.333,=D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/26 16:00:33.000.622,D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Calculadora\u_calculadora.fmx=D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/04/26 16:00:33.000.622,D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Calculadora\u_calculadora.pas=D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/26 16:00:38.000.592,D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Calculadora\calculadora.dproj=D:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
