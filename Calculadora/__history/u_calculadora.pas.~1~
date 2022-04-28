@@ -243,8 +243,7 @@ begin
   btn_sub.Enabled := true;
   btn_mult.Enabled := true;
   btn_div.Enabled := true;
-  lb_n1.Text :='';
-  lb_n2.Text :='';
+
 end;
 
 procedure TForm1.btn_apagaClick(Sender: TObject);
